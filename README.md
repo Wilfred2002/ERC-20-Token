@@ -31,7 +31,7 @@ WillToken is an ERC20 token deployed on the Sepolia test network. Only for educa
 
 ## Conclusion
 
-Working on the WillToken helped me gain an introduction into the world of blockah
+Working on the WillToken helped me gain an introduction into the world of blockchain and I want to build more projects like a wallet on the test network.
 
 ---
 
