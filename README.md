@@ -8,11 +8,6 @@ WillToken is an ERC20 token deployed on the Sepolia test network. Only for educa
 
 - **Token Functions and Events:** I learned about the key functions and events that comprise the ERC20 standard, such as `transfer`, `approve`, `transferFrom`, and events like `Transfer` and `Approval`.
 
-### Solidity Programming
-
-- **Smart Contract Development:** Creating this token the basics of Solidity for writing smart contracts.
-- **Inheritance and Overrides:** I learned how to use inheritance to extend the functionality of OpenZeppelin's ERC20 contract and how to override functions to implement custom behavior.
-
 ### Token Minting
 
 - **Mint Functionality:** I used a `mint` function to create new 1,000,000,000 tokens.
